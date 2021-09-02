@@ -1,0 +1,16 @@
+{
+  "name": "node_mailer",
+  "version": "1.0.0",
+  "description": "Sending an email using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Dennis Mutuma",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.6.3",
+    "nodemon": "^2.0.12"
+  }
+}
